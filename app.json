@@ -5,7 +5,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "776e0203-5bff-483c-b6d0-3d7df7737f45"
+            "value": "da146748-e985-4f12-a16b-f64ff18fc390"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://github.com",
-    "repository": "https://github.com/solo-chen",
+    "repository": "https://github.com/Watmaln",
     "stack": "container"
 }
